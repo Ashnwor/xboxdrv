@@ -126,6 +126,8 @@ XPadDevice xpad_devices[] = {
   { GAMEPAD_XBOX360,          0x24c6, 0x5d04, "Razer Sabertooth" },
   { GAMEPAD_XBOX360,          0x0e6f, 0x011f, "Rock Candy Gamepad Wired Controller" },
   { GAMEPAD_XBOX360,          0x0e6f, 0x021f, "Rock Candy Gamepad for Xbox 360" },
+  { GAMEPAD_XBOX360,          0x2f24, 0x0050, "Monster Pusat Pro Gaming Wireless Gamepad Receiver" },
+  { GAMEPAD_XBOX360,          0x2f24, 0x0053, "Monster Pusat Pro Gaming Wireless Gamepad" },
 
   { GAMEPAD_XBOX_MAT,         0x0738, 0x4540, "Mad Catz Beat Pad" },
   { GAMEPAD_XBOX_MAT,         0x0738, 0x6040, "Mad Catz Beat Pad Pro" },
